@@ -1,6 +1,6 @@
 FROM babim/centosbase:7-x86
 ENV SOFT	AssetExplorer
-ENV EDITTION	pro
+ENV EDITTION	free
 ENV SOFT_HOME	/opt/ManageEngine/${SOFT}
 
 # install depend
