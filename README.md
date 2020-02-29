@@ -6,7 +6,7 @@ docker run --detach --publish 8080:8080 babim/assetexplorer:latest
 ```
 ```
 volume:
-/opt/ManageEngine/AssetExplorer
+/opt/ManageEngine
 ```
 
 run manual with CMD /usr/sbin/init and download, install apps
